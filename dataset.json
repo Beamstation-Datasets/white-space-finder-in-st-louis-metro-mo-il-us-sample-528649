@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in St. Louis, MO-IL that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in St. Louis (Metro), MO-IL, US",
+  "export_job_id": "957f8b32-2e27-42a9-87ad-06b2242db89b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 528649,
+  "location_name": "St. Louis, MO-IL",
+  "location_type": "metro",
+  "repo_name": "white-space-finder-in-st-louis-metro-mo-il-us-sample-528649",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/528649/beamstation_528649_food_and_drink-us-stlouismoil_SAMPLE_DIST.csv",
+  "sample_pct": 33.33,
+  "sample_records": 1,
+  "sample_sha256": "06a489934e87b933735a0bee7f280199d91ff29c5f2350675b3973561ad0253d",
+  "sample_size_bytes": 20133,
+  "total_records": 3,
+  "updated_at": "2026-04-07T14:50:23.458907+00:00"
+}
