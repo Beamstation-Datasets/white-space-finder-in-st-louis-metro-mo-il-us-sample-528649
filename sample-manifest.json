@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e02a2a3d-94c2-4ade-870a-1d80ab7bf8cc",
+  "export_job_id": "49834546-f8ff-4885-8676-cd1e6058d1b0",
   "id_short": 528649,
-  "published_at": "2026-04-18T19:17:56Z",
+  "published_at": "2026-04-22T07:37:19Z",
   "repo_name": "white-space-finder-in-st-louis-metro-mo-il-us-sample-528649",
   "sample_asset_name": "beamstation_528649_food_and_drink-us-stlouismoil_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/528649/beamstation_528649_food_and_drink-us-stlouismoil_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "c913c9febac46bf5a86785b441b53b57f098ba9debf62d697fbb30f5db62c1a7",
-  "sample_size_bytes": 20160,
-  "total_records": 4
+  "sample_sha256": "4dd6d7bcae0a8a8e609ee9e98994c5e155cf139221a8782e1b516f2045116d4c",
+  "sample_size_bytes": 20145,
+  "total_records": 8
 }
