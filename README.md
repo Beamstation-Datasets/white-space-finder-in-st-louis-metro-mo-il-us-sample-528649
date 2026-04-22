@@ -9,9 +9,9 @@
 | Dataset ID | `528649` |
 | Location | St. Louis, MO-IL |
 | Category | Restaurants |
-| Full dataset size | 4 records |
-| Free sample size | 1 records (25.0%) |
-| Last export | 2026-04-14T21:25:23.808948+00:00 |
+| Full dataset size | 8 records |
+| Free sample size | 1 records (12.5%) |
+| Last export | 2026-04-21T23:58:19.668854+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-st-louis-metro-mo-il-us-sample-528649/releases/download/sample-latest/beamstation_528649_food_and_drink-us-stlouismoil_SAMPLE_DIST.csv) |
 
 ## What is in this sample
