@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in St. Louis, MO-IL that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in St. Louis (Metro), MO-IL, US",
-  "export_job_id": "49834546-f8ff-4885-8676-cd1e6058d1b0",
+  "export_job_id": "3b48d734-d677-4292-8c50-a329d296c07e",
   "github_org": "Beamstation-Datasets",
   "id_short": 528649,
   "location_name": "St. Louis, MO-IL",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/528649/beamstation_528649_food_and_drink-us-stlouismoil_SAMPLE_DIST.csv",
   "sample_pct": 12.5,
   "sample_records": 1,
-  "sample_sha256": "4dd6d7bcae0a8a8e609ee9e98994c5e155cf139221a8782e1b516f2045116d4c",
-  "sample_size_bytes": 20145,
+  "sample_sha256": "80206eebf1ca421eede04b516fd08aa5daf0191a8beb28b92c538297c0121cd3",
+  "sample_size_bytes": 19998,
   "total_records": 8,
-  "updated_at": "2026-04-21T23:58:19.668854+00:00"
+  "updated_at": "2026-04-29T03:26:55.960404+00:00"
 }
